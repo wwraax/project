@@ -1,0 +1,40 @@
+.section_two{
+    margin-top: 200px;
+    width: 100%;
+}
+
+.h1_two{
+    font-size: 25px;
+    color: #292F36;
+    margin-top: 16px;
+}
+
+.p_two{
+    font-size: 18px;
+    color: #292F36;
+}
+
+.oneblock{
+    width: 283px;
+    height: 550px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.imgtwo{
+    width: 54px;
+    height: 21px;
+    margin: auto;
+}
+
+.imgt{
+    width: 100px;
+    height: 21px;
+    margin: auto;
+}
+
+.section_three{
+    margin-top: 100px;
+}

@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+
+.section_one{
+    width: 100%;
+    height: 360px;
+    background: url('../../../Img/Team/image_1.png.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner{
+    width: 503px;
+    height: 187px;
+    background-color: white;
+    border-radius: 25px 25px 0 0;
+    text-align: center;
+    margin-top: 173px;
+}
+
+.proff{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.one_h1{
+    font-size: 50px;
+    font-family: 'DM Serif Display', serif;
+    margin-top: 50px;
+}
+
+.one_p{
+    font-size: 22px;
+    color: #4D5053;
+}
